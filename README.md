@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Astro is an amazaing center-stack / BFF solution, which can be a great "glue" between what we nowadays consider a web application and a classical website. WordPress is the most commonly used CMS. Astro and WordPress make for a great combo in many scenarios. This project aims to provide a good starting point for any such scenarios.
+Astro is an amazing center-stack / BFF solution, which can be a great "glue" between what we nowadays consider a web application and a classical website. WordPress is the most commonly used CMS. Astro and WordPress make for a great combo in many scenarios. This project aims to provide a good starting point for any such scenarios.
 
 ### Use cases
 
